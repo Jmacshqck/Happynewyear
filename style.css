@@ -1,0 +1,47 @@
+body {
+    font-size: 15pt;
+    background-color: #333333;
+    
+}
+.head {
+ text-align: center;
+ margin: 100px auto;
+}
+h1{
+ color: #FFFFFF;
+}
+#to{
+ font-weight: 1000;
+ font-size: 100px;
+}
+#countdown {
+  text-align: center; /* Center horizontally */
+  margin: 100px auto; /* Add some margin */
+  font-size: 2em;
+  font-family: sans-serif;
+}
+span{
+ color: #ff7200;
+ font-weight: 500;
+}
+#d{
+ color: #FFFFFF;
+}
+#h{
+ color: #FFFFFF;
+}
+#m{
+ color: #FFFFFF;
+}
+#s{
+ color: #FFFFFF;
+}
+#green {
+ color: #00DB61;
+}
+#white {
+color:#FFFFFF;
+}
+#red {
+ color: #D32000;
+}
